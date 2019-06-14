@@ -1,13 +1,10 @@
 # Talk proposals
 
 A collection of my talk proposals typically used for submitting to CFPs.
-
-## Bio
-
-A collection of different bios I've used for talks can be found in
+Also, a collection of different bios I've used for talks can be found in
 [bio.md](https://github.com/TylerLeonhardt/talk-proposals/blob/master/bio.md).
 
-## Glossary
+## Table of contents
 
 ### PowerShell related
 
