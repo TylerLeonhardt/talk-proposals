@@ -15,6 +15,7 @@ Also, a collection of different bios I've used for talks can be found in
 
 ### Other
 
+* [Auto generate code to interact with your REST API using AutoRest](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/Auto%20generate%20code%20to%20interact%20with%20your%20REST%20API%20using%20AutoRest.md)
 * [Live coding: What it's all about and how to get started](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/Live%20coding%20101.md)
 
 ## Contact
