@@ -1,10 +1,14 @@
 # Management & Operations in the Serverless space: A brief history
 
+or
+
+# Web Apps were not the first "Serverless": A brief history
+
 ## Elevator Pitch
 
 *You have 300 characters to sell your talk. This is known as the "elevator pitch". Make it as exciting and enticing as possible.*
 
-
+Long before the term "serverless" and modern Function-as-a-service offerings emerged, event-driven cloud compute was used all over the management and operations space. In this talk, we'll look at "serverless" before "serverless" and why you should consider this paradigm for non-client facing tasks.
 
 ## Description
 
