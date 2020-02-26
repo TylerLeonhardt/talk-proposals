@@ -1,12 +1,12 @@
-# Management & Operations in the Serverless space: A brief history
-
-or
-
 # Web Apps were not the first "Serverless": A brief history
 
 or
 
 # Let's time travel: A brief history of "Serverless"
+
+or
+
+# Management & Operations in the Serverless space: A brief history
 
 ## Elevator Pitch
 
