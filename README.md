@@ -13,6 +13,12 @@ Also, a collection of different bios I've used for talks can be found in
 * [PowerShell in Azure Functions](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/PowerShell%20in%20Azure%20Functions.md)
 * [Simplify testing of REST APIs using PowerShell and AutoRest](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/Simplify%20testing%20of%20REST%20APIs%20using%20PowerShell%20and%20AutoRest.md)
 
+### Serverless related
+
+* [Web Apps were not the first "Serverless": A brief history](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/Web%20Apps%20were%20not%20the%20first%20%22Serverless%22:%20A%20brief%20history.md)
+* [Event driven glue: Leveraging a serverless platform for operations and management tasks](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/Event%20driven%20glue:%20Leveraging%20a%20serverless%20platform%20for%20operations%20and%20management%20tasks.md)
+* [PowerShell in Azure Functions](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/PowerShell%20in%20Azure%20Functions.md)
+
 ### Other
 
 * [Auto generate code to interact with your REST API using AutoRest](https://github.com/TylerLeonhardt/talk-proposals/blob/master/talks/Auto%20generate%20code%20to%20interact%20with%20your%20REST%20API%20using%20AutoRest.md)
